@@ -11,4 +11,5 @@ Assim, estou começando a publicar alguns destes projetos aqui no github. Espero
 
 Muito obrigado por visitar o meu perfil e meus projetos.
 
+Projeto 1 - Utilizo Python para fazer o processamento de um dataset que será utilizado por um banco para treinar um modelo de machine learning que fará previsões sobre a aprovação ou não da concessão de cartão de crédito para os solicitantes. 
 
