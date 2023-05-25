@@ -1,1 +1,0 @@
-## No endereço https://medium.com/@mrciobonesso/limpeza-de-dados-data-cleaning-utilizando-mysql-projeto-1-4450df659013 você tem acesso ao projeto onde utilizei SQL para realizar os processos de limpeza de um banco de dados. 
