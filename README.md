@@ -13,3 +13,4 @@ Muito obrigado por visitar o meu perfil e meus projetos.
 
 Projeto 1 - Utilizo Python para fazer o processamento de um dataset que será utilizado por um banco para treinar um modelo de machine learning que fará previsões sobre a aprovação ou não da concessão de cartão de crédito para os solicitantes. 
 
+Projeto 2 - Neste projeto, utilizei SQL para fazer os processos de data cleaning de uma tabela contendo dados sobre o mercado imobiliário de uma região dos Estados Unidos. Este projeto foi publicado no Medium, então adicionei o link de acesso ao post deste projeto.
