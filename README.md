@@ -14,8 +14,8 @@ Muito obrigado por visitar o meu perfil e meus projetos.
 
 **Projeto 2 -** Neste projeto, utilizei SQL para fazer os processos de data cleaning de uma tabela contendo dados sobre o mercado imobiliário de uma região dos Estados Unidos. Este projeto foi publicado no Medium, então adicionei o link de acesso ao post deste projeto.
 
-**Projeto 3 -** Dashboard que desenvolvi durate a realização do curso "Microsoft Power BI Desktop for Business Intelligence". A construção deste dashboard envolveu a criação de indicadores de performance, análises de tendências e identificação de clientes de alto valor.  
+**Projeto 3 -** Dashboard que desenvolvi durate a realização do curso "Microsoft Power BI Desktop for Business Intelligence". A construção deste dashboard envolveu a criação de indicadores de performance, análises de tendências, comparações de desempenho e identificação de clientes de alto valor.  
 
-**Projeto 4 -** Dashboard de vendas que desenvolvi com os conhecimentos que adquiri no curso de Power BI. Minhas atividades neste projeto incluiram a conexão com diferentes fontes de dados, a criação do modelo relacional, a adição de colunas e medidas e a criação do relatório interativo contendo indicadores de performance, comparações de desempenho, análise de tendências de produtos e a identificação de clientes de alto valor.
+**Projeto 4 -** Dashboard de vendas que desenvolvi com os conhecimentos que adquiri no curso de Power BI. Minhas atividades neste projeto incluiram a conexão com diferentes fontes de dados, a criação do modelo relacional, a adição de colunas e medidas e a criação do relatório interativo contendo indicadores de performance e análise de tendências.
 
 **Projeto 5 -** Neste projeto, utilizo Spark para realizar um ETL no dataset Home Credit Default Risk. O objetivo foi transformar os dados e, assim, criar novas variáveis para enriquecer o dataset original, conferindo maior valor preditivo ao modelo estatístico. A aplicação do Spark foi rodada utilizando o serviço EMR da AWS, e os arquivos foram armazenados e acessados no S3.
